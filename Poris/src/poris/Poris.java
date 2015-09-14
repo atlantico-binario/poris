@@ -15,7 +15,12 @@ public class Poris {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        int a;
+        
         System.out.println("Hola");
+        
+        a=100;
+        System.out.println(a);
     }
     
 }
